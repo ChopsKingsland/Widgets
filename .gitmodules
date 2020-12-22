@@ -1,0 +1,3 @@
+[submodule "UK-COVID19"]
+	path = UK-COVID19
+	url = https://github.com/ChopsKingsland/UK-COVID19-widgets
